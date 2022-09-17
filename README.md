@@ -1,6 +1,6 @@
 # Ventekk-Newsletter-App
 Ventekk newsletter-app allows user to [Signup](https://fierce-wave-69902.herokuapp.com/)
- to the newsletter and look forward to lots of awesome content!!!!
+ to the newsletter and look forward to lots of awesome content from us!
 
 [Sign Up Now!](https://fierce-wave-69902.herokuapp.com/)
 
